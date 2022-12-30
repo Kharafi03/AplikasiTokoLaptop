@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "525180018573",
+    "project_id": "aplikasi-toko-laptop",
+    "storage_bucket": "aplikasi-toko-laptop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525180018573:android:9aeee50cd4f3d3d070a7c4",
+        "android_client_info": {
+          "package_name": "com.example.aplikasitokolaptop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525180018573-slfc5q8h0is9nc3pilcf0crgumbvmp02.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aplikasitokolaptop",
+            "certificate_hash": "4a20846f346614caf6f973d1bc086009d6c93b72"
+          }
+        },
+        {
+          "client_id": "525180018573-vd0bv9fkbqi1hut8nofqu5064h43ii60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8V-dCrtVbAuQAKvkxzNZJCEfm-y8yg-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525180018573-vd0bv9fkbqi1hut8nofqu5064h43ii60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
